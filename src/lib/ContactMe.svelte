@@ -10,6 +10,5 @@
         E-post:
         <a href="mailto:{email}">{email}</a>
     </p>
-    <p>Om det haster, send SMS på <a href="sms:{phone_href}">{phone}</a></p>
-
+    <p class="mt-4">Haster det? Send SMS på <a href="sms:{phone_href}">{phone}</a></p>
 </section>
