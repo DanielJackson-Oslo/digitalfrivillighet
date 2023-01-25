@@ -1,5 +1,5 @@
 
-<section class="max-w-prose text-lg">
+<section class="max-w-prose">
     <h3 class="text-2xl font-bold mb-4">Ikke billigst</h3>
     <p class="mb-4">
         Du bør alltid samle tilbud fra fler. Gjør du det, så finner du fort at jeg ikke har det laveste tilbudet. Det er fordi:

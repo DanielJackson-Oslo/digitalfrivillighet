@@ -5,7 +5,7 @@
 </script>
 
 <section>
-    <h3 class="text-2xl font-light italic mb-4">Ta kontakt</h3>
+    <h2 class="text-2xl md:text-3xl font-light italic mb-4">Ta kontakt</h2>
     <p>
         E-post:
         <a href="mailto:{email}">{email}</a>

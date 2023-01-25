@@ -11,13 +11,13 @@
     }
 </style>
 
-<main class="max-w-prose mx-auto p-4 sm:mt-10 md:mt-20 flex flex-col gap-8 md:gap-10">
+<main class="max-w-prose mx-auto p-4 pb-12 sm:mt-10 md:mt-20 flex flex-col gap-8 md:gap-10">
     <Hero />
     <ContactMe />
     <PastClients />   
-<!--    <Competence />     -->
-<!-- <NotCheapest /> <Quotes /> -->
-
+    <!-- <Quotes /> -->
+    <!-- <Competence />  -->
+    <!-- <NotCheapest /> --> 
 </main>
 
 
